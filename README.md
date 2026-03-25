@@ -30,10 +30,6 @@ A aplicação oferece uma interface moderna e funcional, facilitando a execuçã
 
 Este projeto foi desenvolvido com foco em melhoria contínua de processos e aplicação prática de conceitos de desenvolvimento web, voltados para soluções reais.
 
-## 📷 Preview
-
-*(adicione prints ou gif depois — aumenta muito o impacto)*
-
 ## 📈 Melhorias futuras
 
 - Integração com APIs
